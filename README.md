@@ -1,6 +1,6 @@
-Crear un componente de usuario que muestre nombre apellido teléfono y dirección
-Crear una clase Usuario que tenga esos mismos campos
-Pasar desde el componente padre, una variable de tipo Usuario al componente de usuario como atributo
+1. Crear un componente de usuario que muestre nombre apellido teléfono y dirección
+2. Crear una clase Usuario que tenga esos mismos campos
+3. Pasar desde el componente padre, una variable de tipo Usuario al componente de usuario como atributo
 
 
 # Kata1Componentes
