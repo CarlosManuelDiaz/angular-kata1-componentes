@@ -1,3 +1,8 @@
+Crear un componente de usuario que muestre nombre apellido teléfono y dirección
+Crear una clase Usuario que tenga esos mismos campos
+Pasar desde el componente padre, una variable de tipo Usuario al componente de usuario como atributo
+
+
 # Kata1Componentes
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.6.
