@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Usuario } from './usuario';
 
 @Component({
   selector: 'app-root',
@@ -7,4 +8,11 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'kata1-componentes';
+  public usuario: Usuario = {
+    nombre: 'Carlos',
+    apellido: 'Díaz',
+    direccion: 'C/ Vinateros 9',
+    telefono: 626262626,
+  };
+
 }
